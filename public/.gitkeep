@@ -1,0 +1,12 @@
+# Public Assets Directory
+
+Place your images here:
+
+- `securenexa-hero.jpg` - Storefront signage image (optional, currently using animated camera)
+- `securenexa-office.jpg` - Office showroom image (optional, currently using animated camera)
+
+Images should be optimized for web:
+- Recommended format: JPG or WebP
+- Recommended size: Under 500KB per image
+- Recommended dimensions: 1200x800px or similar aspect ratio
+
